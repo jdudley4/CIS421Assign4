@@ -1,0 +1,15 @@
+C:\Users\DellUser\source\repos\CIS421Assign4\CIS421Assign4\obj\Debug\CIS421Assign4.csprojAssemblyReference.cache
+C:\Users\DellUser\source\repos\CIS421Assign4\CIS421Assign4\obj\Debug\MainWindow.g.cs
+C:\Users\DellUser\source\repos\CIS421Assign4\CIS421Assign4\obj\Debug\App.g.cs
+C:\Users\DellUser\source\repos\CIS421Assign4\CIS421Assign4\obj\Debug\CIS421Assign4_MarkupCompile.cache
+C:\Users\DellUser\source\repos\CIS421Assign4\CIS421Assign4\obj\Debug\CIS421Assign4_MarkupCompile.lref
+C:\Users\DellUser\source\repos\CIS421Assign4\CIS421Assign4\bin\Debug\CIS421Assign4.exe.config
+C:\Users\DellUser\source\repos\CIS421Assign4\CIS421Assign4\bin\Debug\CIS421Assign4.exe
+C:\Users\DellUser\source\repos\CIS421Assign4\CIS421Assign4\bin\Debug\CIS421Assign4.pdb
+C:\Users\DellUser\source\repos\CIS421Assign4\CIS421Assign4\obj\Debug\MainWindow.baml
+C:\Users\DellUser\source\repos\CIS421Assign4\CIS421Assign4\obj\Debug\CIS421Assign4.g.resources
+C:\Users\DellUser\source\repos\CIS421Assign4\CIS421Assign4\obj\Debug\CIS421Assign4.Properties.Resources.resources
+C:\Users\DellUser\source\repos\CIS421Assign4\CIS421Assign4\obj\Debug\CIS421Assign4.csproj.GenerateResource.cache
+C:\Users\DellUser\source\repos\CIS421Assign4\CIS421Assign4\obj\Debug\CIS421Assign4.csproj.CoreCompileInputs.cache
+C:\Users\DellUser\source\repos\CIS421Assign4\CIS421Assign4\obj\Debug\CIS421Assign4.exe
+C:\Users\DellUser\source\repos\CIS421Assign4\CIS421Assign4\obj\Debug\CIS421Assign4.pdb
